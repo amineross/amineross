@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine ROSTANE</h1>
 <h3 align="center">A Passionate Programmer and Data Enthusiast 💻📊</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amineross" alt="amineross" /></a> </p>
-
 - 🔭 I’m currently working on [the Official RED Association Website](https://github.com/amineross/asso-red)
 
 - 🌱 I’m currently learning **the MERN Stack**
