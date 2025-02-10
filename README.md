@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amine ROSTANE</h1>
 <h3 align="center">A Passionate Programmer and Data Enthusiast 💻📊</h3>
 
-- 🔭 I’m currently working on [the Official RED Association Website](https://asso-red.netlify.app/)
+- 🔭 I’m currently working as an IT Project Manager at LDC Groupe.
 
 - 🌱 I’m currently learning **the MERN Stack**
 
