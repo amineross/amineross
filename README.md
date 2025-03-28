@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as an IT Project Manager at LDC Groupe.
 
-- 🌱 I’m currently learning **the MERN Stack**
+- 🌱 I’m currently learning **CUDA Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amineross?tab=repositories](https://github.com/amineross?tab=repositories)
 
