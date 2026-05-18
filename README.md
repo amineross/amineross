@@ -8,6 +8,6 @@ Engineer. Building efficient systems. https://aminerostane.com
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:hello@aminerostane.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/hello%40aminerostane.com-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="hello@aminerostane.com" height="30" />
+    <img align="center" src="https://img.shields.io/badge/hello%40aminerostane.com-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="hello@aminerostane.com" height="30" />
   </a>
 </p>
