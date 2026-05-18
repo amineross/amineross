@@ -15,6 +15,11 @@ Engineer. Building efficient systems. https://aminerostane.com
 </p>
 <p align="left">
   <a href="https://linkedin.com/in/rostane" target="blank">
-    <kbd>linkedin.com/in/rostane</kbd>
+    <img
+      align="center"
+      src="https://img.shields.io/badge/linkedin.com%2Fin%2Frostane-ffffff?style=social&logo=linkedin&logoColor=0A66C2"
+      alt="linkedin.com/in/rostane"
+      height="28"
+    />
   </a>
 </p>
