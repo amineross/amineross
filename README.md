@@ -12,9 +12,8 @@ Engineer. Building efficient systems. https://aminerostane.com
       height="28"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/rostane" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <kbd>linkedin.com/in/rostane</kbd>
   </a>
   
 </p>
